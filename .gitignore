@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+# raw data: too big for git, everyone downloads it from Dataverse
+dataverse_files/
+dataverse_files.zip
+*.tar.gz
