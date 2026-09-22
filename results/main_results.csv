@@ -1,0 +1,85 @@
+Agreement,Outcome,Country group,Talk group,n,Median,Mean,Std,Share of pairs where talkers improved more,Spearman (talk vs outcome)
+Kyoto,CO2 change (%),Annex I (developed),Did not mention,18,3.0311959943399525,3.0624810946210763,14.124112700266672,,
+Kyoto,CO2 change (%),Annex I (developed),Mentioned climate,22,4.9133241958982055,5.1697315937588435,9.775882581082751,,
+Kyoto,CO2 change (%),Annex I (developed),Mentioned climate vs Did not mention,40,,,,0.4292929292929293,0.05952405037030048
+Kyoto,CO2 change (%),Non-Annex I (developing),Did not mention,60,9.84241962129877,22.451125099392623,45.462838607361554,,
+Kyoto,CO2 change (%),Non-Annex I (developing),Mentioned climate,80,20.97588547330973,22.538619288002014,41.9862136634859,,
+Kyoto,CO2 change (%),Non-Annex I (developing),Mentioned climate vs Did not mention,140,,,,0.48375,0.05219317329304202
+Kyoto,CO2 change (%),All countries (pooled),Did not mention,78,7.488069650875961,17.976822636753038,41.17458725297285,,
+Kyoto,CO2 change (%),All countries (pooled),Mentioned climate,102,12.745632988600331,18.792388608851525,38.082360351790776,,
+Kyoto,CO2 change (%),All countries (pooled),Mentioned climate vs Did not mention,180,,,,0.4783810960281549,0.043253923429099915
+Kyoto,Low-carbon share change (pp),Annex I (developed),Did not mention,17,-0.46441129352534194,-1.4743149923043637,6.663564170672065,,
+Kyoto,Low-carbon share change (pp),Annex I (developed),Mentioned climate,22,-0.22708774787313857,-2.2730210833952924,7.968107920787827,,
+Kyoto,Low-carbon share change (pp),Annex I (developed),Mentioned climate vs Did not mention,39,,,,0.4786096256684492,-0.06109101620433787
+Kyoto,Low-carbon share change (pp),Non-Annex I (developing),Did not mention,57,0.0,-2.424217008571845,12.471878665593982,,
+Kyoto,Low-carbon share change (pp),Non-Annex I (developing),Mentioned climate,78,0.0,-1.3179866351933653,7.506891415018157,,
+Kyoto,Low-carbon share change (pp),Non-Annex I (developing),Mentioned climate vs Did not mention,135,,,,0.5026990553306343,-0.04297458053116924
+Kyoto,Low-carbon share change (pp),All countries (pooled),Did not mention,74,0.0,-2.2059962751049906,11.367424769751992,,
+Kyoto,Low-carbon share change (pp),All countries (pooled),Mentioned climate,100,0.0,-1.5280942137977893,7.579991164851765,,
+Kyoto,Low-carbon share change (pp),All countries (pooled),Mentioned climate vs Did not mention,174,,,,0.49824324324324326,-0.04824998635123429
+Paris,CO2 change (%),Annex I (developed),Low third,14,-19.614593027237603,-16.9182524356104,15.959277071657981,,
+Paris,CO2 change (%),Annex I (developed),Middle third,14,-17.504914992253987,-17.134243078232057,15.277894983482414,,
+Paris,CO2 change (%),Annex I (developed),High third,13,-18.733031674208146,-18.873079689410606,8.330893745752793,,
+Paris,CO2 change (%),Annex I (developed),High third vs Low third,27,,,,0.5274725274725275,-0.01176470699917957
+Paris,CO2 change (%),Non-Annex I (developing),Low third,50,3.9718761564080496,10.167129395840696,34.64490640248929,,
+Paris,CO2 change (%),Non-Annex I (developing),Middle third,50,13.16145366156164,21.47253071326759,32.53433663909232,,
+Paris,CO2 change (%),Non-Annex I (developing),High third,51,7.792207792207795,16.015577531473514,35.67196832104038,,
+Paris,CO2 change (%),Non-Annex I (developing),High third vs Low third,101,,,,0.4331372549019608,0.10085970375750508
+Paris,CO2 change (%),All countries (pooled),Low third,64,-0.7277505078013835,4.242202120210767,33.36860851156393,,
+Paris,CO2 change (%),All countries (pooled),Middle third,64,8.452200521647434,13.027298946377044,33.618355380641106,,
+Paris,CO2 change (%),All countries (pooled),High third,64,2.880045511482787,8.928819033481428,34.97548655670434,,
+Paris,CO2 change (%),All countries (pooled),High third vs Low third,128,,,,0.4532470703125,0.14753121935611974
+Paris,Low-carbon share change (pp),Annex I (developed),Low third,12,14.819202009953347,19.799305135425485,13.184637852736975,,
+Paris,Low-carbon share change (pp),Annex I (developed),Middle third,14,16.149267126470765,19.83599811775716,15.23247969777484,,
+Paris,Low-carbon share change (pp),Annex I (developed),High third,13,6.166869304093865,9.419597958755553,9.871305241738169,,
+Paris,Low-carbon share change (pp),Annex I (developed),High third vs Low third,25,,,,0.28205128205128205,-0.28123102418919665
+Paris,Low-carbon share change (pp),Non-Annex I (developing),Low third,49,3.7103042882744734,7.202954925673565,13.439025188729833,,
+Paris,Low-carbon share change (pp),Non-Annex I (developing),Middle third,46,2.0269644487165044,3.0068036181363373,9.004906579232422,,
+Paris,Low-carbon share change (pp),Non-Annex I (developing),High third,43,5.445941647545831,6.419291456812515,10.127680341449503,,
+Paris,Low-carbon share change (pp),Non-Annex I (developing),High third vs Low third,92,,,,0.5149501661129569,-0.004375473323651503
+Paris,Low-carbon share change (pp),All countries (pooled),Low third,61,4.90293952572992,9.680925458739514,14.207270662738416,,
+Paris,Low-carbon share change (pp),All countries (pooled),Middle third,60,5.055934899795034,6.933615668047861,12.825596068189666,,
+Paris,Low-carbon share change (pp),All countries (pooled),High third,56,5.470090917585427,7.115791180477862,10.060820346252644,,
+Paris,Low-carbon share change (pp),All countries (pooled),High third vs Low third,117,,,,0.4651639344262295,-0.11155640629657236
+Kyoto (check),CO2 change check (%),Annex I (developed),Did not mention,18,-15.228770802953607,-13.237985249061273,13.232196881674627,,
+Kyoto (check),CO2 change check (%),Annex I (developed),Mentioned climate,22,-4.191868717686903,-3.1212648976696844,14.36201573384931,,
+Kyoto (check),CO2 change check (%),Annex I (developed),Mentioned climate vs Did not mention,40,,,,0.29545454545454547,0.29752186499138616
+Kyoto (check),CO2 change check (%),Non-Annex I (developing),Did not mention,60,30.18503520683491,43.67280273530708,71.30115896441418,,
+Kyoto (check),CO2 change check (%),Non-Annex I (developing),Mentioned climate,80,25.351595789684964,40.40480463867723,60.89174912170515,,
+Kyoto (check),CO2 change check (%),Non-Annex I (developing),Mentioned climate vs Did not mention,140,,,,0.5033333333333333,0.00140791711458315
+Kyoto (check),CO2 change check (%),All countries (pooled),Did not mention,78,8.988355167394468,30.53954396968361,67.20480954525401,,
+Kyoto (check),CO2 change check (%),All countries (pooled),Mentioned climate,102,12.964995031281934,31.016828856327894,57.15516106979422,,
+Kyoto (check),CO2 change check (%),All countries (pooled),Mentioned climate vs Did not mention,180,,,,0.47473604826546,0.028838811436808495
+Kyoto (check),Low-carbon share change check (pp),Annex I (developed),Did not mention,17,6.726881631082094,7.096079126112012,8.969453900436157,,
+Kyoto (check),Low-carbon share change check (pp),Annex I (developed),Mentioned climate,22,1.618956277615021,-1.8716006677477757,15.637868392102511,,
+Kyoto (check),Low-carbon share change check (pp),Annex I (developed),Mentioned climate vs Did not mention,39,,,,0.30213903743315507,-0.34343530646588916
+Kyoto (check),Low-carbon share change check (pp),Non-Annex I (developing),Did not mention,57,0.0,-1.719629858530597,15.10168993609296,,
+Kyoto (check),Low-carbon share change check (pp),Non-Annex I (developing),Mentioned climate,78,0.0,-1.88129002070679,12.300292913907839,,
+Kyoto (check),Low-carbon share change check (pp),Non-Annex I (developing),Mentioned climate vs Did not mention,135,,,,0.5179937022042285,-0.028025760720242866
+Kyoto (check),Low-carbon share change check (pp),All countries (pooled),Did not mention,74,0.0,0.30560058388730005,14.370968088768237,,
+Kyoto (check),Low-carbon share change check (pp),All countries (pooled),Mentioned climate,100,0.0,-1.8791583630558069,13.021073804808102,,
+Kyoto (check),Low-carbon share change check (pp),All countries (pooled),Mentioned climate vs Did not mention,174,,,,0.47087837837837837,-0.08993314671348951
+Paris (check),CO2 change check (%),Annex I (developed),Low third,14,-4.6301019353665325,-4.004362731885462,8.369218140971697,,
+Paris (check),CO2 change check (%),Annex I (developed),Middle third,14,-4.684130163861938,-4.730155220700957,6.117868296763128,,
+Paris (check),CO2 change check (%),Annex I (developed),High third,13,-5.942142298670827,-5.562298064466797,6.476114667971985,,
+Paris (check),CO2 change check (%),Annex I (developed),High third vs Low third,27,,,,0.5714285714285714,-0.05620915566274684
+Paris (check),CO2 change check (%),Non-Annex I (developing),Low third,50,6.6575107106989435,8.93568308637687,26.4133414274145,,
+Paris (check),CO2 change check (%),Non-Annex I (developing),Middle third,50,9.95763833730473,15.646069265238964,22.522075397778966,,
+Paris (check),CO2 change check (%),Non-Annex I (developing),High third,51,7.769539697250538,12.31057948070171,25.535781211082565,,
+Paris (check),CO2 change check (%),Non-Annex I (developing),High third vs Low third,101,,,,0.45529411764705885,0.07070030716499812
+Paris (check),CO2 change check (%),All countries (pooled),Low third,64,1.884105545098691,6.105048063631983,24.210571797807354,,
+Paris (check),CO2 change check (%),All countries (pooled),Middle third,64,5.19566681676692,11.188770158939604,21.779072725367218,,
+Paris (check),CO2 change check (%),All countries (pooled),High third,64,3.5565578729769176,8.680151229339357,24.042384206691164,,
+Paris (check),CO2 change check (%),All countries (pooled),High third vs Low third,128,,,,0.47119140625,0.11040202874666132
+Paris (check),Low-carbon share change check (pp),Annex I (developed),Low third,13,4.487522829754635,7.339535497625504,9.208070945023197,,
+Paris (check),Low-carbon share change check (pp),Annex I (developed),Middle third,14,3.3683929993990454,6.546927960797462,10.78203785854309,,
+Paris (check),Low-carbon share change check (pp),Annex I (developed),High third,13,0.12283741376363366,2.2267079195702006,4.400113077105267,,
+Paris (check),Low-carbon share change check (pp),Annex I (developed),High third vs Low third,26,,,,0.25443786982248523,-0.3702383251525742
+Paris (check),Low-carbon share change check (pp),Non-Annex I (developing),Low third,49,0.10414248574813989,0.9682012405990088,7.706110568861222,,
+Paris (check),Low-carbon share change check (pp),Non-Annex I (developing),Middle third,50,0.27205130657950405,1.307678711478178,6.066312881878691,,
+Paris (check),Low-carbon share change check (pp),Non-Annex I (developing),High third,45,0.9523539060004982,2.7157333445081924,9.25219413248699,,
+Paris (check),Low-carbon share change check (pp),Non-Annex I (developing),High third vs Low third,94,,,,0.545578231292517,0.05630322632393058
+Paris (check),Low-carbon share change check (pp),All countries (pooled),Low third,62,0.5228966921920404,2.304126165459403,8.381254609719901,,
+Paris (check),Low-carbon share change check (pp),All countries (pooled),Middle third,64,1.7031585160178624,2.4537644847667712,7.574727532853609,,
+Paris (check),Low-carbon share change check (pp),All countries (pooled),High third,58,0.45006847315774223,2.6061241975393314,8.378418654391997,,
+Paris (check),Low-carbon share change check (pp),All countries (pooled),High third vs Low third,120,,,,0.49360400444938823,-0.040606372035312574

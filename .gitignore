@@ -5,3 +5,8 @@ __pycache__/
 dataverse_files/
 dataverse_files.zip
 *.tar.gz
+
+# generated data (rebuild with: python preprocess.py)
+data/speeches_clean.*
+data/owid-co2-data.csv
+data/owid-energy-data.csv
